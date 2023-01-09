@@ -1,0 +1,5 @@
+4
+Box1 0 1 Box2
+Box2 0 1 Box3
+Box3 0 1 Box4
+Box4 0 0
